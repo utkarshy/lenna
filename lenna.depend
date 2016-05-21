@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463630769 source:c:\code blocks\lenna\main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+	<string>
+
